@@ -1,7 +1,7 @@
-const CompanionsLibrary = () => {
+const CompanionLibrary =() => {
   return (
     <div>CompanionsLibrary</div>
   )
 }
 
-export default CompanionsLibrary
+export default CompanionLibrary
